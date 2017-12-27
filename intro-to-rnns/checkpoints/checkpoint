@@ -1,0 +1,6 @@
+model_checkpoint_path: "i1000_l128.ckpt"
+all_model_checkpoint_paths: "i200_l128.ckpt"
+all_model_checkpoint_paths: "i400_l128.ckpt"
+all_model_checkpoint_paths: "i600_l128.ckpt"
+all_model_checkpoint_paths: "i800_l128.ckpt"
+all_model_checkpoint_paths: "i1000_l128.ckpt"
